@@ -1,0 +1,10 @@
+C:\Users\Константин\source\repos\Integrating\Integrating\bin\Debug\Integrating.exe.config
+C:\Users\Константин\source\repos\Integrating\Integrating\bin\Debug\Integrating.exe
+C:\Users\Константин\source\repos\Integrating\Integrating\bin\Debug\Integrating.pdb
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.csprojAssemblyReference.cache
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.Form1.resources
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.Properties.Resources.resources
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.exe
+C:\Users\Константин\source\repos\Integrating\Integrating\obj\Debug\Integrating.pdb
